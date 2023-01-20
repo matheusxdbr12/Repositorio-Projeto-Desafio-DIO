@@ -1,2 +1,3 @@
-# Repositorio-Projeto-Desafio-DIO
-Primeiro desafio de projeto DIO 
+# Projeto Desafio DIO :desktop_computer:
+
+## Repositorio do Primeiro desafio de projeto DIO - BootCamp OrangeTech 
